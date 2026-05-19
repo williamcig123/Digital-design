@@ -1,5 +1,5 @@
-# Binary-arithmetic
-4 bit sum adder
+# 4 bit sum adder
+
 After studying Binary arithmetic of unsigned numbers using sum, i wanted to make a proof-of-work. 
 So i created the circuit to understand all that boolean algebra, the xor gates, changing the values of the input so see which output would turn on and why. It also help me to understand that a for 4 bit it's nothing more than four 1 bit working together(instance).
 I worked on this for 3 days.... i wanted to understand everything, how it worked, the syntax of verilog, changing values.
